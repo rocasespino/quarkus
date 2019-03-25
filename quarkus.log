@@ -1,0 +1,5 @@
+2019-03-25 21:42:09,656 de-2qzqs32 target/getting-started-1.0-SNAPSHOT-runner.jar[16328] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-03-25 21:42:09,700 de-2qzqs32 target/getting-started-1.0-SNAPSHOT-runner.jar[16328] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-03-25 21:42:09,893 de-2qzqs32 target/getting-started-1.0-SNAPSHOT-runner.jar[16328] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-25 21:42:09,975 de-2qzqs32 target/getting-started-1.0-SNAPSHOT-runner.jar[16328] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 2.410s. Listening on: http://[::]:8080
+2019-03-25 21:42:09,980 de-2qzqs32 target/getting-started-1.0-SNAPSHOT-runner.jar[16328] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]

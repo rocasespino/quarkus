@@ -1,0 +1,34 @@
+2019-03-25 21:30:46,495 de-2qzqs32 surefirebooter7036215410746167446.jar[15772] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-25 21:30:46,755 de-2qzqs32 surefirebooter7036215410746167446.jar[15772] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-25 21:30:47,739 de-2qzqs32 surefirebooter7036215410746167446.jar[15772] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 1244ms
+2019-03-25 21:30:49,357 de-2qzqs32 surefirebooter7036215410746167446.jar[15772] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-03-25 21:30:49,389 de-2qzqs32 surefirebooter7036215410746167446.jar[15772] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-03-25 21:33:30,321 de-2qzqs32 surefirebooter6337653457223214226.jar[16072] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-25 21:33:30,659 de-2qzqs32 surefirebooter6337653457223214226.jar[16072] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-25 21:33:31,935 de-2qzqs32 surefirebooter6337653457223214226.jar[16072] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 1615ms
+2019-03-25 21:33:33,521 de-2qzqs32 surefirebooter6337653457223214226.jar[16072] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-03-25 21:33:33,550 de-2qzqs32 surefirebooter6337653457223214226.jar[16072] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-03-25 21:38:28,355 de-2qzqs32 surefirebooter4713568275849193570.jar[7436] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-25 21:38:28,726 de-2qzqs32 surefirebooter4713568275849193570.jar[7436] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-25 21:38:29,907 de-2qzqs32 surefirebooter4713568275849193570.jar[7436] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 1552ms
+2019-03-25 21:38:31,550 de-2qzqs32 surefirebooter4713568275849193570.jar[7436] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-03-25 21:38:31,587 de-2qzqs32 surefirebooter4713568275849193570.jar[7436] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-03-25 21:38:31,719 de-2qzqs32 surefirebooter4713568275849193570.jar[7436] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 1.743s. Listening on: http://[::]:8092
+2019-03-25 21:38:31,720 de-2qzqs32 surefirebooter4713568275849193570.jar[7436] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-03-25 21:38:35,868 de-2qzqs32 surefirebooter4713568275849193570.jar[7436] INFO  [io.quarkus] (main) Quarkus stopped in 0.044s
+2019-03-25 21:38:54,544 de-2qzqs32 surefirebooter1190374182120059685.jar[11692] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-25 21:38:54,941 de-2qzqs32 surefirebooter1190374182120059685.jar[11692] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-25 21:38:56,206 de-2qzqs32 surefirebooter1190374182120059685.jar[11692] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 1662ms
+2019-03-25 21:38:58,242 de-2qzqs32 surefirebooter1190374182120059685.jar[11692] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-03-25 21:38:58,279 de-2qzqs32 surefirebooter1190374182120059685.jar[11692] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-03-25 21:38:58,486 de-2qzqs32 surefirebooter1190374182120059685.jar[11692] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 2.205s. Listening on: http://[::]:8092
+2019-03-25 21:38:58,488 de-2qzqs32 surefirebooter1190374182120059685.jar[11692] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-03-25 21:39:03,656 de-2qzqs32 surefirebooter1190374182120059685.jar[11692] INFO  [io.quarkus] (main) Quarkus stopped in 0.014s
+2019-03-25 21:40:15,874 de-2qzqs32 surefirebooter4955467604709543547.jar[12880] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-25 21:40:16,165 de-2qzqs32 surefirebooter4955467604709543547.jar[12880] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-25 21:40:17,186 de-2qzqs32 surefirebooter4955467604709543547.jar[12880] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 1312ms
+2019-03-25 21:40:18,909 de-2qzqs32 surefirebooter4955467604709543547.jar[12880] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-03-25 21:40:18,951 de-2qzqs32 surefirebooter4955467604709543547.jar[12880] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-03-25 21:40:19,101 de-2qzqs32 surefirebooter4955467604709543547.jar[12880] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 1.846s. Listening on: http://[::]:8092
+2019-03-25 21:40:19,102 de-2qzqs32 surefirebooter4955467604709543547.jar[12880] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-03-25 21:40:22,881 de-2qzqs32 surefirebooter4955467604709543547.jar[12880] INFO  [io.quarkus] (main) Quarkus stopped in 0.015s
